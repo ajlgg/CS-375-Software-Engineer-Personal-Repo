@@ -10,6 +10,4 @@
 
 4. I definitely want to start getting the UI setup for the frontend, and work with my team on that to make sure we are all in agreement on the design. I want to try working as swiftly, but efficiently as possible. Mistakes are iminent and I want to be ready for them, and to not be in spirals. That is why we will do everything on a specific timeline so that we don't mix things up. I am excited to get the frontend looking seamless, and getting the backend logic working to create this brand new app. 
 
-<p align="center">
-  <img src="images/chart.png" alt="Gantt Chart for Accalendar" width="800">
-</p>
+5. Gantt Chart in github repo
